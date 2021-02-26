@@ -1,0 +1,3 @@
+Entering cred consts here
+cred1: 123
+cred2: 456
